@@ -13,4 +13,4 @@ The lesson information was captured in two steps and then put together:
 
 See the [blog post](https://nate23424533.wordpress.com/2022/12/05/building-a-crypto-trading-dashboard-the-first-steps/) or the related [Jupyter Notebook](notebook.ipynb) for further information.  
 
-See the final product of the web scraping effort [here](https://github.com/nate102938/class_links_web_scraper/blob/main/Version%20-%2003%20-%20All/DS_Links.html).
+See the final product of the web scraping effort [here](https://htmlpreview.github.io/?https://github.com/nate102938/class_links_web_scraper/blob/main/Version%20-%2003%20-%20All/DS_Links.html).
