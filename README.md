@@ -7,13 +7,13 @@ Therefore, I created this project that uses the Selenium library to perform the 
 2. Navigates into each phases' page
 3. Captures all of the lesson names and links for each phase
 4. Navigates into each lesson link
-5. Captures all external github/vimeo links.  
+5. Captures all external github/vimeo links  
 6. Saves all of the lesson information to file
-7. Outputs all of the lesson information to a user-friendly collapsible HMTL file. 
+7. Outputs all of the lesson information to a user-friendly collapsible HMTL file 
 
 The lesson information was captured in two steps and then put together:
-- Version 01 - Captured all lesson information for phases 1 through 5, 
-- Version 02 - Captured all lesson information for pre-work.  
+- Version 01 - Captured all lesson information for phases 1 through 5 
+- Version 02 - Captured all lesson information for pre-work  
 - Version 03 - Combined information from Version 01 and Version 02
 
 See the [blog post](https://nate23424533.wordpress.com/2022/12/05/building-a-crypto-trading-dashboard-the-first-steps/) or the related [Jupyter Notebook](notebook.ipynb) for further information.  
