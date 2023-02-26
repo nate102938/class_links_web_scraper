@@ -3,7 +3,7 @@
 This project relates to a blog post linked [here](https://nate23424533.wordpress.com/2023/01/23/web-scraping-tips/). The blog post discusses tips for web scraping.  I used the information I gathered in the blog post to web scrape the lesson names and links from the Flatiron School Data Science class site.  This information is freely available at [Flatiron Open Source](https://flatironopensource.ml/); however, I wanted to get the information into a more concise format of my liking (and I wanted to practice web scraping).  
 
 Therefore, I created this project that uses the Selenium library to perform the following:
-1. Pythonically logs into Flatiron School
+1. Logs into Flatiron School
 2. Navigates into each phases' page
 3. Captures all of the lesson names and links for each phase
 4. Navigates into each lesson link
